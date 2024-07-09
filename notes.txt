@@ -1,0 +1,13 @@
+10350_0020
+Source 1 ambiguous
+
+10550_0020
+Source 1 not visible
+Source 2 not visible
+Source 4 not visible
+Source 5 not visible
+
+10550_0270
+Source 20 may be a planetary nebula
+Source 26 image is incomplete
+Source 60 image is missing blue I1 filter
