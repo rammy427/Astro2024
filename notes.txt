@@ -1,3 +1,18 @@
+10250_0145
+Source 5 barely visible
+Source 10 is a ring; ambiguous
+Source 21 barely visible
+Source 26 barely visible
+Source 27 barely visible
+Source 40 ambiguous
+Source 42 barely visible
+Source 70 not visible
+Source 71 not visible
+Source 72 not visible
+Source 73 image is incomplete
+Source 74 not visible
+Source 76 image is incomplete
+
 10350_0020
 Source 1 ambiguous
 
