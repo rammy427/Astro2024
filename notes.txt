@@ -71,6 +71,25 @@ Source 70 ambiguous
 Source 72 barely visible; possible 2 sources
 Source 93 not visible
 
+10350_0270
+Source 3 not visible
+Source 4 not visible
+Source 5 not visible
+Source 6 not visible
+Source 7 not visible
+Source 9 barely visible on RGB
+Source 11 image incomplete; also missing I1 and I3 filters
+Source 15 barely visible on RGB
+Source 28 barely visible on RGB
+Source 30 barely visible
+Source 32 barely visible
+Source 41 not visible on RGB
+Source 42 barely visible on RGB
+Source 46 barely visible on RGB
+Source 47 not visible
+Source 48 image missing I1 and I3 filters
+Source 50 not visible
+
 10550_0020
 Source 1 not visible
 Source 2 not visible
