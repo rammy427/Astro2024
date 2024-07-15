@@ -39,6 +39,20 @@ Source 73 image is incomplete
 Source 74 not visible
 Source 76 image is incomplete
 
+10250_0270
+Source 15 ambiguous
+Source 17 ambiguous
+Source 18 barely visible on RGB
+Source 22 image missing I1 and I3 filters
+Source 23 barely visible on RGB
+Source 27 ambiguous
+Source 28 not visible on RGB
+Source 29 not visible on RGB
+Source 37 image incomplete
+Source 38 not visible
+Source 46 missing I1 and I3 filters
+Source 55 missing I1 and I3 filters
+
 10350_0020
 Source 1 ambiguous
 
