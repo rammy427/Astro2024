@@ -56,6 +56,21 @@ Source 55 missing I1 and I3 filters
 10350_0020
 Source 1 ambiguous
 
+10350_0145
+Source 7 ambiguous
+Source 17 barely visible
+Source 37 image incomplete
+Source 39 ambiguous
+Source 40 ambiguous
+Source 43 ambiguous
+Source 45 not visible
+Source 62 ambiguous
+Source 65 ambiguous; barely visible
+Source 69 ambiguous
+Source 70 ambiguous
+Source 72 barely visible; possible 2 sources
+Source 93 not visible
+
 10550_0020
 Source 1 not visible
 Source 2 not visible
