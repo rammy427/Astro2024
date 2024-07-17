@@ -120,6 +120,22 @@ Source 37 barely visible on RGB
 Source 58 ambiguous
 Source 60 image incomplete
 
+10450_0270
+Source 10 image missing I1 and I3 filters
+Source 11 image missing I1 and I3 filters
+Source 12 image missing I1 and I3 filters
+Source 18 image missing I1 and I3 filters
+Source 30 image missing I1 and I3 filters
+Source 32 image missing I1 and I3 filters
+Source 33 image missing I1 and I3 filters
+Source 34 image missing I1 and I3 filters
+Source 36 image incomplete
+Source 44 ambiguous; may be planetary nebula
+Source 58 image incomplete
+Source 82 image incomplete
+Source 83 ambiguous; may be planetary nebula
+Source 84 image incomplete
+
 10550_0020
 Source 1 not visible
 Source 2 not visible
