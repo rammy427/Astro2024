@@ -111,6 +111,15 @@ Source 31 not visible
 Source 32 barely visible on RGB
 Source 68 image incomplete
 
+10450_0145
+Source 11 barely visible
+Source 13 barely visible
+Source 16 barely visible
+Source 31 image incomplete
+Source 37 barely visible on RGB
+Source 58 ambiguous
+Source 60 image incomplete
+
 10550_0020
 Source 1 not visible
 Source 2 not visible
