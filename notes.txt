@@ -105,6 +105,12 @@ Source 47 not visible
 Source 48 image missing I1 and I3 filters
 Source 50 not visible
 
+10450_0020
+Source 25 possible 2 sources
+Source 31 not visible
+Source 32 barely visible on RGB
+Source 68 image incomplete
+
 10550_0020
 Source 1 not visible
 Source 2 not visible
