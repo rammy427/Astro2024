@@ -1,10 +1,22 @@
 10050_0270
+Source 1 image missing I1 and I3 filters
+Source 2 image missing I1 and I3 filters
+Source 3 image incomplete
+Source 4 image incomplete
+Source 5 image missing I1 and I3 filters
 
 10150_0145
 Source 5 not visible
 Source 7 image incomplete
 
 10150_0270
+Source 13 image missing I1 and I3 filters
+Source 18 image incomplete
+Source 19 image missing I1 and I3 filters
+Source 21 ambiguous
+Source 23 ambiguous
+Source 43 image missing I1 and I3 filters
+Source 44 image missing I1 and I3 filters
 
 10250_0020
 Source 27 not visible
