@@ -1,143 +1,139 @@
 10050_0270
-Source 1 image missing I1 and I3 filters
-Source 2 image missing I1 and I3 filters
-Source 3 image incomplete
-Source 4 image incomplete
-Source 5 image missing I1 and I3 filters
+No observations.
 
 10150_0145
-Source 5 not visible
-Source 7 image incomplete
+101.5673673_1.9659944_10150_0145_2 barely visible
+102.0340253_2.0884071_10150_0145_5 not visible; ambiguous
+101.8236367_1.7502225_10150_0145_9 ambiguous
 
 10150_0270
-Source 13 image missing I1 and I3 filters
-Source 18 image incomplete
-Source 19 image missing I1 and I3 filters
-Source 21 ambiguous
-Source 23 ambiguous
-Source 43 image missing I1 and I3 filters
-Source 44 image missing I1 and I3 filters
+101.8959563_2.2897525_10150_0270_1 ambiguous
+101.7205464_2.5503922_10150_0270_13 ambiguous
+101.8623914_2.8355202_10150_0270_17 ambiguous; may be nebula
+101.5869932_2.8851802_10150_0270_19 ambiguous; may be nebula
+101.4391987_2.3761373_10150_0270_28 ambiguous
+101.8698737_2.8526940_10150_0270_29 ambiguous
+101.9133864_2.7320132_10150_0270_30 ambiguous
+101.9837149_2.5186540_10150_0270_32 ambiguous
+101.3333560_3.0085720_10150_0270_39 ambiguous; may be nebula
 
 10250_0020
-Source 27 not visible
-Source 30 barely visible
+102.8464243_0.4612463_10250_0020_17 has 2 sources
+102.9406022_0.8079108_10250_0020_25 ambiguous
+103.0079147_0.4893950_10250_0020_27 not visible
+102.8132253_0.3116171_10250_0020_28 ambiguous
+102.2203606_0.5847606_10250_0020_30 barely visible
 
 10250_0145
-Source 5 barely visible
-Source 10 is a ring; ambiguous
-Source 21 barely visible
-Source 26 barely visible
-Source 27 barely visible
-Source 40 ambiguous
-Source 42 barely visible
-Source 70 not visible
-Source 71 not visible
-Source 72 not visible
-Source 73 image is incomplete
-Source 74 not visible
-Source 76 image is incomplete
+102.2779068_0.8257392_10250_0145_4 barely visible
+102.9364094_1.5518747_10250_0145_5 barely visible
+102.8266254_1.0168932_10250_0145_8 barely visible
+102.4707366_1.7642499_10250_0145_9 barely visible
+102.2258141_1.5722335_10250_0145_10 ambiguous; looks like a ring/nebula
+102.3485841_1.1289117_10250_0145_16 not visible
+102.1439006_0.8267220_10250_0145_25 barely visible
+102.5520864_0.8577494_10250_0145_26 barely visible
+102.2271497_1.8256194_10250_0145_36 ambiguous
+102.1910520_0.9547289_10250_0145_41 barely visible; ambiguous
+102.2916625_1.6765739_10250_0145_59 ambiguous; looks like dust
+102.3185694_0.8984094_10250_0145_62 ambiguous; looks like dust
+102.8307933_1.0211148_10250_0145_68 not visible
+102.2164111_1.5672323_10250_0145_69 not visible
+102.0585893_1.2755737_10250_0145_70 not visible
+102.7350668_0.8872380_10250_0145_71 not visible
 
 10250_0270
-Source 15 ambiguous
-Source 17 ambiguous
-Source 18 barely visible on RGB
-Source 22 image missing I1 and I3 filters
-Source 23 barely visible on RGB
-Source 27 ambiguous
-Source 28 not visible on RGB
-Source 29 not visible on RGB
-Source 37 image incomplete
-Source 38 not visible
-Source 46 missing I1 and I3 filters
-Source 55 missing I1 and I3 filters
+102.1823398_2.1759308_10250_0270_15 not visible
+103.0051831_2.3924786_10250_0270_17 ambiguous; looks like dust
+102.8400597_2.4575359_10250_0270_18 barely visible
+102.2695945_2.1705616_10250_0270_47 ambiguous; looks like dust
 
 10350_0020
-Source 1 ambiguous
+103.5077503_0.6450833_10350_0020_7 ambiguous; may be nebula
+103.9170912_0.4097447_10350_0020_14 ambiguous; may be nebula
+103.7871966_0.7527475_10350_0020_16 barely visible
 
 10350_0145
-Source 7 ambiguous
-Source 17 barely visible
-Source 37 image incomplete
-Source 39 ambiguous
-Source 40 ambiguous
-Source 43 ambiguous
-Source 45 not visible
-Source 62 ambiguous
-Source 65 ambiguous; barely visible
-Source 69 ambiguous
-Source 70 ambiguous
-Source 72 barely visible; possible 2 sources
-Source 93 not visible
+103.6247822_1.3094133_10350_0145_7 ambiguous; may be star
+104.0076611_1.0716932_10350_0145_19 ambiguous
+103.1922526_1.9322291_10350_0145_64 not visible
+103.1188482_1.4013540_10350_0145_68 ambiguous; may be star
+103.1046329_1.3959275_10350_0145_69 ambiguous; may be star
+102.9663689_0.9276872_10350_0145_75 barely visible; ambiguous
+103.0566214_1.3818733_10350_0145_79 ambiguous; may be 2 stars
+103.9940303_1.2456962_10350_0145_83 ambiguous; looks like dust
+103.8771187_1.3460160_10350_0145_92 ambiguous; may be star
 
 10350_0270
-Source 3 not visible
-Source 4 not visible
-Source 5 not visible
-Source 6 not visible
-Source 7 not visible
-Source 9 barely visible on RGB
-Source 11 image incomplete; also missing I1 and I3 filters
-Source 15 barely visible on RGB
-Source 28 barely visible on RGB
-Source 30 barely visible
-Source 32 barely visible
-Source 41 not visible on RGB
-Source 42 barely visible on RGB
-Source 46 barely visible on RGB
-Source 47 not visible
-Source 48 image missing I1 and I3 filters
-Source 50 not visible
+103.9178183_2.5188450_10350_0270_1 ambiguous
+103.9082376_2.5638539_10350_0270_2 not centralized
+103.7385931_2.5746838_10350_0270_3 not visible
+103.5859099_2.5762449_10350_0270_4 not visible
+103.4285998_2.5747052_10350_0270_5 not visible
+103.2620341_2.5854689_10350_0270_6 not visible
+103.1108863_2.6023777_10350_0270_7 not visible
+103.4809053_2.0820833_10350_0270_9 not visible on RGB
+103.9964644_2.6917222_10350_0270_14 not visible on RGB
+103.9177395_2.7750117_10350_0270_15 ambiguous
+103.2901122_2.1483986_10350_0270_27 barely visible on RGB
+103.2697150_2.4148949_10350_0270_29 not visible; ambiguous
+103.2311457_2.5755537_10350_0270_31 barely visible on RGB
+103.1095402_2.5225208_10350_0270_40 not visible on RGB
+103.0947959_2.2126826_10350_0270_41 barely visible on RGB
+103.0761155_2.2138429_10350_0270_42 not visible on RGB
+103.0069457_2.5116502_10350_0270_45 not visible on RGB
+103.3983147_2.5689124_10350_0270_46 not visible
+104.0303981_2.7289212_10350_0270_48 ambiguous; may be dust
+103.3729832_2.3090768_10350_0270_53 not visible on RGB
 
 10450_0020
-Source 25 possible 2 sources
-Source 31 not visible
-Source 32 barely visible on RGB
-Source 68 image incomplete
+104.1850177_0.6258302_10450_0020_7 ambiguous
+104.9822648_0.6055761_10450_0020_24 ambiguous
+105.0130847_0.1464086_10450_0020_31 not visible
+104.7899265_0.6600808_10450_0020_45 ambiguous; may be nebula
+104.6644177_0.1998000_10450_0020_47 ambiguous
+104.6595335_0.1997492_10450_0020_48 ambiguous
+104.7029187_0.2629154_10450_0020_49 ambiguous
+104.4685831_0.2140833_10450_0020_58 ambiguous; may be dust
+104.3204154_0.2224158_10450_0020_59 ambiguous; may be dust
+104.3719121_0.6922496_10450_0020_62 barely visible
+104.1794181_0.0284135_10450_0020_67 may be dust
 
 10450_0145
-Source 11 barely visible
-Source 13 barely visible
-Source 16 barely visible
-Source 31 image incomplete
-Source 37 barely visible on RGB
-Source 58 ambiguous
-Source 60 image incomplete
+104.3659019_0.9739128_10450_0145_7 ambiguous
+104.9016059_0.8520477_10450_0145_13 not visible
+104.8584394_0.8683883_10450_0145_16 is dust
+104.3508685_1.4560785_10450_0145_28 ambiguous
+104.1504793_1.3987231_10450_0145_34 is dust
+103.9944671_1.2456936_10450_0145_54 is dust
+104.1032257_1.8147153_10450_0145_56 ambiguous
 
 10450_0270
-Source 10 image missing I1 and I3 filters
-Source 11 image missing I1 and I3 filters
-Source 12 image missing I1 and I3 filters
-Source 18 image missing I1 and I3 filters
-Source 30 image missing I1 and I3 filters
-Source 32 image missing I1 and I3 filters
-Source 33 image missing I1 and I3 filters
-Source 34 image missing I1 and I3 filters
-Source 36 image incomplete
-Source 44 ambiguous; may be planetary nebula
-Source 58 image incomplete
-Source 82 image incomplete
-Source 83 ambiguous; may be planetary nebula
-Source 84 image incomplete
+104.4291805_2.5429146_10450_0270_12 is dust
+104.6649698_2.9700722_10450_0270_22 ambiguous; I3 image incomplete
+104.5933171_2.2244131_10450_0270_27 may be nebula
+104.7057183_2.1477327_10450_0270_51 ambiguous
+104.5115936_2.4249167_10450_0270_53 is dust; not visible
+104.0308850_2.7283264_10450_0270_57 is dust
+104.7858289_3.1040498_10450_0270_64 must be nebula
 
 10550_0020
-Source 1 not visible
-Source 2 not visible
-Source 4 not visible
-Source 5 not visible
+105.4820825_0.8167500_10550_0020_1 not centralized
+106.0296045_0.7570748_10550_0020_2 not visible
+105.2960797_0.3884154_10550_0020_4 not centralized; not galaxy
+105.9819209_0.2432429_10550_0020_5 not visible
 
 10550_0145
-Source 2 not visible
-Source 3 not visible on RGB
-Source 6 not visible
-Source 7 not visible
-Source 10 not visible on RGB
-Source 16 not visible on RGB
-Source 17 not visible on RGB
-Source 23 not visible on RGB
-Source 26 not visible on RGB
-Source 45 not visible on RGB
+105.7752194_1.8444000_10550_0145_2 not visible
+105.8380111_1.3577247_10550_0145_3 not visible on RGB
+106.0249276_1.0354714_10550_0145_6 not visible
+105.1965085_2.0789630_10550_0145_9 not visible
+105.5160925_2.0115833_10550_0145_25 not visible
+105.8445458_1.5735572_10550_0145_42 is dust
+105.1196656_1.2273848_10550_0145_63 is dust
 
 10550_0270
-Source 20 may be a planetary nebula
-Source 26 image is incomplete
-Source 60 image is missing blue I1 filter
+105.9637380_2.6992352_10550_0270_17 ambiguous
+105.9053981_2.7941825_10550_0270_20 may be nebula
+106.0194313_2.5546392_10550_0270_23 ambiguous
+105.7677516_2.8713873_10550_0270_31 not visible
